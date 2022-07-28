@@ -1,6 +1,7 @@
 # Phase 2 Project
 
 Author: Magali Solimano
+
 Date: July 28, 2022
 
 ## Project Overview
