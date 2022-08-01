@@ -23,6 +23,8 @@ The analysis utilizes descriptive data analysis and descriptive statistics, in a
 ## Results
 Interpretative linear regression modeling explains 71% of the variation in single-family house prices. Key model inputs include: square footage, construction grade, condition, number of bathrooms, location (as determined by city), waterfront, renovated. Surprisingly, the number of bedrooms is not statistically significant in the model.
 
+![grade_condition](./images/grade_condition.png)
+
 ## Next Steps
 Further analysis should seek to improve model performance. Extended analysis could examine one or all of the following: age of house and age of renovations; number of bedrooms to bathrooms; geolocation maps; application of log transformation on select variables such as price and square footage, which was explored but not part of the final model for ease of interpretability.
 
