@@ -31,4 +31,4 @@ Interpretative linear regression modeling explains 71% of the variation in singl
 Further analysis should seek to improve model performance.
 
 ## More Information
-See the full analysis in the Jupyter Notebook or review the presentation. For additional information, contact Magali Solimano at magali.solimano@gmail.com.
+See the full analysis in the [Jupyter Notebook](https://github.com/magalisolimano/dsc_phase2_project/blob/main/phase2project_magalisolimano.ipynb) or review the [presentation](https://github.com/magalisolimano/dsc_phase2_project/blob/main/presentation_phase2.pdf). For additional information, contact Magali Solimano at magali.solimano@gmail.com.
