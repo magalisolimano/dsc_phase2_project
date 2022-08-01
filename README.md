@@ -22,7 +22,7 @@ The project uses the King County House Sales dataset, which can be found in  `kc
 The analysis utilizes descriptive data analysis and descriptive statistics, in addition to linear regression modeling.
 
 ## Results
-Interpretative linear regression modeling explains 71% of the variation in single-family house prices. Key model inputs include: square footage, construction grade, condition, number of bathrooms, location (as determined by city), waterfront, renovated. Surprisingly, the number of bathrooms is not statistically significant in the model.
+Interpretative linear regression modeling explains 71% of the variation in single-family house prices. Key model inputs include: square footage, construction grade, condition, number of bathrooms, location (as determined by city), waterfront, renovated. Surprisingly, the number of bedrooms is not statistically significant in the model.
 
 ![price_city_figure](https://github.com/magalisolimano/dsc_phase2_project/blob/main/images/price_by_city.png)
 ![grade_condition_boxplots](https://github.com/magalisolimano/dsc_phase2_project/blob/main/images/grade_condition.png)
